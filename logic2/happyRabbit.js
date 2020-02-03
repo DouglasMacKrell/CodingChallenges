@@ -7,7 +7,8 @@
 
 // Write a function which takes a garden matrix and returns the number of carrots the rabbit eats. You may assume the matrix is rectangular with at least 1 row and 1 column, and that it is populated with non-negative integers. For example,
 
-myMatrix = [[5, 7, 8, 6, 3],
+myMatrix = 
+[[5, 7, 8, 6, 3],
  [0, 0, 7, 0, 4],
  [4, 6, 3, 4, 9],
  [3, 1, 0, 5, 8]]
